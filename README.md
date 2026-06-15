@@ -1,6 +1,5 @@
 # Quiz App
 Create and take quizzes online.
-
 ## Features
 - Create quizzes
 - Multiple choice
